@@ -1,1 +1,1 @@
-## [Doxygen](https://idaho-adcs.github.io/index.html)
+## [Doxygen Documentation](https://idaho-adcs.github.io/index.html)
