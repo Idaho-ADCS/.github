@@ -9,5 +9,5 @@ This organization is aimed at supporting software development for supporting cub
 | May 2022   | Satellite simulator with webserver added for single axis microgravity simulations added |
 | targeted Fall 2022 | Single axis control algorithms and attitude determination | 
 
-## [Doxygen Documentation](https://idaho-adcs.github.io/index.html)
+# [Doxygen Documentation](https://idaho-adcs.github.io/index.html)
 Follow the link above to see the doxygen documentation of our hardware libraries and data transmission design.
